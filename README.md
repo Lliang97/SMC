@@ -2,7 +2,7 @@ This package is implementing the method on Neural Computing and Applications pap
 
 # Data
 
-The Demo DBLP dataset used in the paper can be download here [Google Driver](https://drive.google.com/drive/folders/1zFHrqP7sJiALdIzihmNTvdt0eb5UUGSq?usp=sharing). 
+The DBLP dataset used in the paper can be download here [Google Driver](https://drive.google.com/drive/folders/1zFHrqP7sJiALdIzihmNTvdt0eb5UUGSq?usp=sharing). The required data files should be put into **dataset/** folder.
 
 # Run 
 
